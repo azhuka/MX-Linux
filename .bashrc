@@ -124,3 +124,5 @@ xterm*|rxvt*)
 *)
     ;;
 esac
+
+eval "$(starship init bash)"
